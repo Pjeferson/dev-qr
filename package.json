@@ -1,6 +1,14 @@
 {
   "name": "dev-qr",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "author": "Paulo Jeferson <paulojeferson34@gmail.com>",
+  "keywords": [
+    "qr",
+    "code",
+    "development",
+    "server",
+    "test"
+  ],
   "main": "index.js",
   "bin": {
     "dev-qr": "index.js"
@@ -11,5 +19,10 @@
     "internal-ip": "^5.0.0",
     "qrcode": "^1.4.4",
     "yargs": "^15.1.0"
+  },
+  "homepage": "http://github.com/pjeferson/dev-qr",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pjeferson/dev-qr.git"
   }
 }

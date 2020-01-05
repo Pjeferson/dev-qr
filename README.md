@@ -8,13 +8,13 @@ Currently, only installation through this repository is available.
 ### NPM
 
 ```
-npm i https://github.com/Pjeferson/dev-qr.git
+npm i dev-qr
 ```
 
 ### Yarn
 
 ```
-yarn add https://github.com/Pjeferson/dev-qr.git
+yarn add dev-qr
 ```
 
 
